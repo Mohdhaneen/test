@@ -36,4 +36,4 @@ ABOUT = """
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
-➥ TOTORIAL:CINEMACNTER
+➥ Tutorial : [CLICK HERE] (https://t.me/cinemacenterofficial)
