@@ -36,4 +36,4 @@ ABOUT = """
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
-➥ MOVIES GROUP : @CINEMA_CNETER
+➥ MOVIES GROUP : https://t.me/cinema_center
