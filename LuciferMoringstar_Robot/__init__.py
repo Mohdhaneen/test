@@ -28,12 +28,10 @@ Bot Owner Only
 """
 
 ABOUT = """
-➥ Name :  KATY PERRY
+🔻 Name :  KATY PERRY
     
-➥ Creator : @MOHDHANEEN
+🔻Creator : @MOHDHANEEN
 
-➥ Language : Python3
+🔻Language : Python3
 
-➥ Library : Pyrogram Asyncio 1.13.0
-
-➥ Tutorial : [CLICK HERE] (https://t.me/cinemacenterofficial)
+🔻 Library : Pyrogram Asyncio 1.13.0
